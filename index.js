@@ -39,4 +39,3 @@ function justwork(a, string){
 var totalBatteries = batteryBatches.reduce(add, 0);
 
 var wordCountMap = monologueLines.reduce(justwork, 0);
-
